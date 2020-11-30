@@ -1,0 +1,29 @@
+.dotw {
+  width: 12vw;
+  height: 100vh;
+  float:left;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.dotw > header {
+  height: 20px;
+  text-align: center;
+  padding-top: 10px;
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+}
+
+
+.meal {
+  height: 20vh;
+
+}
+
+.meal > header {
+  padding: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-transform: capitalize;
+  
+}
